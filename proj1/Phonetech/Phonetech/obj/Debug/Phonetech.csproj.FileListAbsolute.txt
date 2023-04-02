@@ -1,0 +1,8 @@
+C:\ArcObjects\phone_tech\proj1\Phonetech\Phonetech\bin\Debug\Phonetech.dll
+C:\ArcObjects\phone_tech\proj1\Phonetech\Phonetech\bin\Debug\Phonetech.pdb
+C:\ArcObjects\phone_tech\proj1\Phonetech\Phonetech\bin\Debug\ESRI.ArcGIS.Editor.dll
+C:\ArcObjects\phone_tech\proj1\Phonetech\Phonetech\bin\Debug\ESRI.ArcGIS.Editor.xml
+C:\ArcObjects\phone_tech\proj1\Phonetech\Phonetech\obj\Debug\Phonetech.csprojResolveAssemblyReference.cache
+C:\ArcObjects\phone_tech\proj1\Phonetech\Phonetech\obj\Debug\Phonetech.dll
+C:\ArcObjects\phone_tech\proj1\Phonetech\Phonetech\obj\Debug\Phonetech.pdb
+C:\ArcObjects\phone_tech\proj1\Phonetech\Phonetech\bin\Debug\Phonetech.esriAddIn

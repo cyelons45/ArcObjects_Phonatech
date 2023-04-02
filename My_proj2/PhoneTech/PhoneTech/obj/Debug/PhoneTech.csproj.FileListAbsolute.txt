@@ -1,0 +1,6 @@
+C:\ArcObjects\phone_tech\My_proj2\PhoneTech\PhoneTech\bin\Debug\PhoneTech.dll
+C:\ArcObjects\phone_tech\My_proj2\PhoneTech\PhoneTech\bin\Debug\PhoneTech.pdb
+C:\ArcObjects\phone_tech\My_proj2\PhoneTech\PhoneTech\obj\Debug\PhoneTech.dll
+C:\ArcObjects\phone_tech\My_proj2\PhoneTech\PhoneTech\obj\Debug\PhoneTech.pdb
+C:\ArcObjects\phone_tech\My_proj2\PhoneTech\PhoneTech\obj\Debug\PhoneTech.csprojResolveAssemblyReference.cache
+C:\ArcObjects\phone_tech\My_proj2\PhoneTech\PhoneTech\bin\Debug\PhoneTech.esriAddIn

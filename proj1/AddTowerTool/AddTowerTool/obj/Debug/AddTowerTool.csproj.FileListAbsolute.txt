@@ -1,0 +1,9 @@
+C:\ArcObjects\phone_tech\proj1\AddTowerTool\AddTowerTool\bin\Debug\AddTowerTool.dll
+C:\ArcObjects\phone_tech\proj1\AddTowerTool\AddTowerTool\bin\Debug\AddTowerTool.pdb
+C:\ArcObjects\phone_tech\proj1\AddTowerTool\AddTowerTool\bin\Debug\ESRI.ArcGIS.Editor.dll
+C:\ArcObjects\phone_tech\proj1\AddTowerTool\AddTowerTool\bin\Debug\ESRI.ArcGIS.Version.dll
+C:\ArcObjects\phone_tech\proj1\AddTowerTool\AddTowerTool\bin\Debug\ESRI.ArcGIS.Editor.xml
+C:\ArcObjects\phone_tech\proj1\AddTowerTool\AddTowerTool\obj\Debug\AddTowerTool.dll
+C:\ArcObjects\phone_tech\proj1\AddTowerTool\AddTowerTool\obj\Debug\AddTowerTool.pdb
+C:\ArcObjects\phone_tech\proj1\AddTowerTool\AddTowerTool\obj\Debug\AddTowerTool.csprojResolveAssemblyReference.cache
+C:\ArcObjects\phone_tech\proj1\AddTowerTool\AddTowerTool\bin\Debug\AddTowerTool.esriAddIn

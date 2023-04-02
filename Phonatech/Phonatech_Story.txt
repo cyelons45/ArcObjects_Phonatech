@@ -1,0 +1,22 @@
+phonatech is a telecommunication company that provide cell and internet services. phonatech has been suffering from bad customer reviews regarding poor services. Despite constantly adding new towers to increase coverage, cell reception did not getting any better. Phonatech doesn't keep track of customer location, so in case of any emergencies they won’t be able to provide the government with location based information about their customers. 
+ 
+You were asked by phonatech to implement a solution using GIS for them to enhance their cell reception, manage their new implementation of 3G and 4G networks. Phonatech have three types of towers, type A which costs $5000 dollars to build and install and has a coverage of 700 meters radius. Type B costs $2000 dollars to build and install and has coverage of 300 meters radius. Type C costs $1000  but only has a coverage of 100 meters.  Each tower type has a different base area which is important as towers take a place of land and land are rented out per square meters. Which add additional cost to the installation of the tower,  Type A has a base area of 60 meters square and a height of 60 meters,Type B has a base area of 40 Meters square and a height of 40 meters, and Type C is base area is 40 meters. and a height of 30 meters.
+
+Each tower can be configured to support only 1 network band by default which are the following 2G, 2.5G (edge), 3G, 3.5G(HSPA),H+, and LTE.
+
+Your solution should be able to provide the following:
+
+-Calculate signal strength for a given point in the map. 
+-Find dead areas, areas with no signal.
+-Propose Cell tower location to maximize reception and minimize the cost.
+-Plan a new towers installation for a new area.
+-Capture and store connected customers phone International Mobile Equipment Identity (IMEI)
+, location (lat, long) for each tower.
+-Ability to locate the last location for cell phone by searching its IMEI.
+-Provide heat map for 4G network, highlight areas that has 4G coverage.
+-Cost management module, calculate the cost of rent
+
+
+-Build the information model
+-Create geodatabase, feature classes, tables.
+-base size (m2) so we can calculate the rent of the land
